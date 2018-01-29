@@ -1,0 +1,6 @@
+{
+    "restarable": "rs",
+    "watch": ["src"],
+    "vervose":true,
+    "ext": "js ejs"
+}
